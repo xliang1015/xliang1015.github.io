@@ -1,0 +1,15 @@
+{
+  "name": "xliangblog",
+  "version": "1.0.0",
+  "description": "xiaoliang blogs",
+  "main": "index.js",
+  "author": "xiaoliang",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}

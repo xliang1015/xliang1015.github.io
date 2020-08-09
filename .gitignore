@@ -1,0 +1,7 @@
+# 最终输出目录
+docs/.vuepress/dist/
+# Node模块本地缓存目录
+node_modules/.cache/
+
+# 模块锁
+yarn.lock
