@@ -29,7 +29,7 @@ cd docs/.vuepress/dist
 
 git init
 git add -A
-git commit -m 'Init Reset Deploy!'
+git commit -m 'Deploy!'
 
 # 如果发布到 https://<USERNAME>.github.io
 git push -f git@github.com:xliang1015/xliang1015.github.io.git master:gh-pages
